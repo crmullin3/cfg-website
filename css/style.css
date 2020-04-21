@@ -5,7 +5,7 @@ font-family: 'Franklin Gothic Medium';
 }
 
 html {
-    background-image:  url(../img/nonprofit.jpg); 
+    background-image: url(../img/nonprofit.jpg); 
     height: 100vh; 
     background-size: cover; 
     background-position: center;
@@ -63,7 +63,7 @@ ul li.active a{
 }
 
 .title h1{
-    color: #fff;
+    color: black;
     font-size: 50px;
 
 }
