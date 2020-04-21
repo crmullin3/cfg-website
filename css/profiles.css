@@ -32,7 +32,7 @@
     }
     ul li.active a{
         background-color: #fff;
-        color: #000;
+        color: black;
     }
 
     .logo{
@@ -55,7 +55,7 @@
         transform: translate(-50%,-50%);
     }
     .title h2{
-        color: black;
+        color: navy;
         font-size: 40px;
         text-align: center;
     }
